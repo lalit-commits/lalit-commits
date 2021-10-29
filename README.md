@@ -1,9 +1,12 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
  -->
-<div align="center">
-![1UEW](https://user-images.githubusercontent.com/75823395/139442573-aa06b75a-6e9f-4c81-b633-eca2702159b1.gif)
+ 
 
-</div>
+<p align="center">
+ ![1UEW](https://user-images.githubusercontent.com/75823395/139442573-aa06b75a-6e9f-4c81-b633-eca2702159b1.gif)
+
+</p>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Lalit</h1>
 
 <h3 align="center">I'm a passionate Flutter Developer from India.</h3>
