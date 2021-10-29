@@ -3,7 +3,7 @@
  
 
 <p align="center">
- ![1UEW](https://user-images.githubusercontent.com/75823395/139442573-aa06b75a-6e9f-4c81-b633-eca2702159b1.gif)
+![1UEW](https://user-images.githubusercontent.com/75823395/139443394-6142da84-7a5c-4024-9747-89c2a1ffd354.gif)
 
 </p>
 
