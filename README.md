@@ -1,10 +1,11 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
  -->
  
-<div align="center">
-![1UEW](https://user-images.githubusercontent.com/75823395/139444118-3e271f82-e1e2-44b9-a497-a760f11266f8.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/75823395/139444118-3e271f82-e1e2-44b9-a497-a760f11266f8.gif" alt="animated" />
+</p>
 
-</div>
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Lalit</h1>
 
